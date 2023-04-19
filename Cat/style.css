@@ -50,7 +50,8 @@ h4 {
     cursor: pointer;
 }
 h4:hover {
-    background-color: red;
+    background-color: plum;
+    color: black;
 }
 
 #image1 {
